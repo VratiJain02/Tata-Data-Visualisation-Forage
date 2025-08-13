@@ -22,6 +22,7 @@ The task involved cleaning and analyzing an **Online Retail dataset** to prepare
 
 4. **Country-wise Demand Analysis**  
    - Displays order quantity patterns by country to guide inventory and marketing.
+   - ![Country-wise Demand Analysis](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Country-wise%20Product%20Demand.png)
 
 ---
 
@@ -32,12 +33,7 @@ The task involved cleaning and analyzing an **Online Retail dataset** to prepare
 ---
 
 ## 📷 Dashboard Previews
-*(Screenshots from Tableau Public)*  
-![Monthly Revenue](https://public.tableau.com/views/OnlineRetailDashboardRevenueDemandInsights2011/RevenuebyMonth2011?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-![Top Countries](https://public.tableau.com/views/OnlineRetailDashboardRevenueDemandInsights2011/Top10CountriesbyRevenueExcludingUK?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-![Top Customers](https://public.tableau.com/views/OnlineRetailDashboardRevenueDemandInsights2011/Top10CustomersbyRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-![Country Demand]
-(https://public.tableau.com/shared/WHBB6M3Z7?:display_count=n&:origin=viz_share_link) 
+![Online Retail Analysis Dashboard](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Online%20Retail%20Analysis_Dashboard.png)
 
 
 ## 🌐 View on Tableau Public
