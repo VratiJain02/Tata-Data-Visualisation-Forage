@@ -9,6 +9,8 @@ The task involved cleaning and analyzing an **Online Retail dataset** to prepare
 ## 📊 Dashboards Created
 1. **Monthly Revenue Trends**  
    - Shows revenue changes over time to identify peak and low-performing months.
+   - ![Monthly Revenue 2011](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Revenue%20by%20Month%20(2011).png)
+   
 
 2. **Top 10 Countries by Revenue (Excluding UK)**  
    - Highlights international markets contributing the most revenue.
