@@ -14,9 +14,11 @@ The task involved cleaning and analyzing an **Online Retail dataset** to prepare
 
 2. **Top 10 Countries by Revenue (Excluding UK)**  
    - Highlights international markets contributing the most revenue.
+   - ![Top 10 Countries by Revenue, Excluding UK](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Top%2010%20Countries%20by%20Revenue%20.png)
 
 3. **Top 10 Customers by Revenue**  
    - Identifies high-value customers for potential loyalty programs.
+   - ![Top 10 Customers by Revenue](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Top%2010%20Customers%20by%20Revenue.png)
 
 4. **Country-wise Demand Analysis**  
    - Displays order quantity patterns by country to guide inventory and marketing.
