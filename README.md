@@ -9,19 +9,19 @@ The task involved cleaning and analyzing an **Online Retail dataset** to prepare
 ## 📊 Dashboards Created
 1. **Monthly Revenue Trends**  
    - Shows revenue changes over time to identify peak and low-performing months.
-   - ![Monthly Revenue 2011](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Revenue%20by%20Month%20(2011).png)
+   - ![Monthly Revenue 2011](./IMAGES/Revenue%20by%20Month%20(2011).png)
 
 2. **Top 10 Countries by Revenue (Excluding UK)**  
    - Highlights international markets contributing the most revenue.
-   - ![Top 10 Countries by Revenue, Excluding UK](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Top%2010%20Countries%20by%20Revenue%20.png)
+   - ![Top 10 Countries by Revenue, Excluding UK](./IMAGES/Top%2010%20Countries%20by%20Revenue%20.png)
 
 3. **Top 10 Customers by Revenue**  
    - Identifies high-value customers for potential loyalty programs.
-   - ![Top 10 Customers by Revenue](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Top%2010%20Customers%20by%20Revenue.png)
+   - ![Top 10 Customers by Revenue](./IMAGES/Top%2010%20Customers%20by%20Revenue.png)
 
 4. **Country-wise Demand Analysis**  
    - Displays order quantity patterns by country to guide inventory and marketing.
-   - ![Country-wise Demand Analysis](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Country-wise%20Product%20Demand.png)
+   - ![Country-wise Demand Analysis](./IMAGES/Country-wise%20Product%20Demand.png)
 
 ---
 
@@ -32,7 +32,7 @@ The task involved cleaning and analyzing an **Online Retail dataset** to prepare
 ---
 
 ## 📷 Dashboard Previews
-![Online Retail Analysis Dashboard](https://github.com/VratiJain02/Tata-Data-Visualisation-Forage/blob/main/Online%20Retail%20Analysis_Dashboard.png)
+![Online Retail Analysis Dashboard](./IMAGES/Online%20Retail%20Analysis_Dashboard.png)
 
 
 ## 🌐 View on Tableau Public
